@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\ref\Ex1_DiziToplami.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\bin\Debug\net5.0\Ex1_DiziToplami.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\ref\Ex1_DiziToplami.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex1_DiziToplami\obj\Debug\net5.0\Ex1_DiziToplami.genruntimeconfig.cache
