@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\ref\Ex2_Aice_Bob.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\bin\Debug\net5.0\Ex2_Aice_Bob.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\ref\Ex2_Aice_Bob.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\HacerRank_Ornekler\Ex2_Aice_Bob\obj\Debug\net5.0\Ex2_Aice_Bob.genruntimeconfig.cache

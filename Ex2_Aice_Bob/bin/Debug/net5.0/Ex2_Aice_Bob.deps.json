@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex2_Aice_Bob/1.0.0": {
+        "runtime": {
+          "Ex2_Aice_Bob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2_Aice_Bob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
